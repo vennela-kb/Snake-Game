@@ -94,17 +94,6 @@ python snake_game.py
 🔹 **Include Sound Effects**  
 🔹 **Improve Graphics with Better Snake and Apple Designs**  
 🔹 **Add Multiplayer Mode**  
-
----
-
-## 📜 License
-This project is released under the **MIT License**. Feel free to modify and distribute it.
-
----
-
-## 📥 Download
-Click [here](./snake_game.py) to download the game script.
-
 ---
 
 ## ✉️ Contact
